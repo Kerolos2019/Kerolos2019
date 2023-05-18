@@ -23,17 +23,17 @@
 <a href="https://www.linkedin.com/in/kerolos-yacoub-b26818144/" target="_blank"><img src="https://img.shields.io/badge/-kerolos yacoub-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![AI](🤖🧠)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![AI](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
+![HTML](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![CSS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Sass](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+![React.js](https://img.shields.io/badge/-Reinforcement%20Learning-05122A?style=flat&logo=unity&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Generative%20Adversarial%20Networks-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Git](https://img.shields.io/badge/-Variational%20Autoencoders-05122A?style=flat&logo=python&logoColor=FFDD4B)&nbsp;
+![GitHub](https://img.shields.io/badge/-Transformer%20Models-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-GANs-05122A?style=flat&logo=python&logoColor=FFDD4B)&nbsp;
+![GraphQL](https://img.shields.io/badge/-Deep%20Learning%20for%20Computer%20Vision-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
