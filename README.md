@@ -34,14 +34,14 @@
 ![GitHub](https://img.shields.io/badge/-Transformer%20Models-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-GANs-05122A?style=flat&logo=python&logoColor=FFDD4B)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-Deep%20Learning%20for%20Computer%20Vision-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![MongoDB](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerolos2019&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=kerolos2019&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=kerolos2019&style=for-the-badge">
 </a>
